@@ -1,9 +1,3 @@
----
-layout: page
-title: SP18MP1
-permalink: /mp1/
----
-
 # Machine Problem 1 - 使用 MD5 進行版本控制
 
 - Due Date: 11:59 PM, 2018/11/7 本次作業不允許遲交。
